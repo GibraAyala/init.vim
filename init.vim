@@ -1,0 +1,14 @@
+syntax enable
+set background=dark
+set t_Co=16
+source $HOME/AppData/Local/nvim/lib/native.vim
+source $HOME/AppData/Local/nvim/lib/plugins.vim
+source $HOME/AppData/Local/nvim/lib/plugins/lightline.vim
+source $HOME/AppData/Local/nvim/lib/plugins/material.vim
+source $HOME/AppData/Local/nvim/lib/plugins/easymotion.vim
+source $HOME/AppData/Local/nvim/lib/plugins/prettier.vim
+source $HOME/AppData/Local/nvim/lib/plugins/nerdtree.vim
+source $HOME/AppData/Local/nvim/lib/plugins/kite.vim
+source $HOME/AppData/Local/nvim/lib/plugins/fzf.vim
+source $HOME/AppData/Local/nvim/lib/plugins/coc.vim
+source $HOME/AppData/Local/nvim/lib/commands.vim
